@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# VS Code REST Client extension's requests file
+requests.rest
+
+# TypeScript configuration file
+tsconfig.json
